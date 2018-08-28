@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Chris's GitHub Page
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -22,6 +22,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
+`This is for code`
 
 [Link](url) and ![Image](src)
 ```
